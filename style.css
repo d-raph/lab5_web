@@ -1,0 +1,21 @@
+.main{
+    width: 70%;
+    background-color: rgb(200, 160, 238);
+    margin:auto;
+}
+section{
+    width: 65%;
+    background-color: rgb(75, 109, 139);
+    border: solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main,section{
+    padding: 5px;
+    box-sizing: border-box;
+}
+.go{
+    text-align: center;
+}
